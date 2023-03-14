@@ -1,6 +1,5 @@
 import { Request, Response } from "express";
 import {
-  IAllRealEstate,
   IRealEstate,
   IRealEstateReturn,
 } from "../interfaces/realEstate.interfaces";
